@@ -10,6 +10,6 @@ public class endOther {
 
     public static void main(String[] args) {
         endOther end = new endOther();
-        System.out.println(end.endOther("Hiabc","abc"));
+        System.out.println(end.endOther("AbC","HiaBc"));
     }
 }
