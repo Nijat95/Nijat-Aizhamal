@@ -2,8 +2,9 @@ public class repeatFront {
     public String repeatFront(String str, int n) {
         String newString = "";
 
-        for (int i = n; n > 0; n--){
+        while (n > 0){
             newString += str.substring(0,n);
+            n--;
         }
         return newString;
     }

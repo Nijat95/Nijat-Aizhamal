@@ -14,6 +14,6 @@ public class xyBalance {
 
     public static void main(String[] args) {
         xyBalance xy = new xyBalance();
-        System.out.println(xy.xyBalance("aaxbby"));
+        System.out.println(xy.xyBalance("yxxxbb"));
     }
 }
